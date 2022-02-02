@@ -3,7 +3,7 @@
 
 <h3 align="center">Desarrollador web Full Stack</h3>
 
-- 🌱 Actualmente estoycapacitándome de forma autodidacta en **TestingQA** y cursando el primer año de la carrera de **Analista de sistemas informáticos.** 
+- 🌱 Actualmente estoy capacitándome de forma autodidacta en **TestingQA** y cursando el primer año de la carrera de **Analista de sistemas informáticos.** 
 
 - 🚀 Estudié **programación web full stack en Digital House y fundación FORMAR, utilizando HTML5, CSS3, JavaScript, Node.js, Express, Bootstrap, MySQL.**
 
