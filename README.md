@@ -12,7 +12,7 @@
 <h3 align="left">Encuéntrame en :</h3>
 <p align="left">
   <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/ramses-roy-adorno-villalba-557b2b201/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="ramses adorno" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/ramsés-adorno/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="ramses adorno" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:ramsesadorno@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="ramses adorno" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/ramsesroy"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=GitHub&logoColor=white alt="ramses adorno" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
